@@ -1,8 +1,13 @@
 HOW TO CREATE AND SETUP YOUR GIT AND GITHUB ACCOUNT ?
+
 Create an account on Github
+
 Create a personal Access Token on Github
+
 Update profile on Intranet
+
 Create repository
+
 Open Sandbox
 
 
